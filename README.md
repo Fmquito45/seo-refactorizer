@@ -1,5 +1,3 @@
-/*seperates heaeding from paragraph and set font size*/
-
 # Seo-Refactor
 
 ## Description
