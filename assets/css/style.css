@@ -3,8 +3,8 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  border:red solid 1px;
 }
+
 /*select a background color for the body*/
 body {
   background-color: #d9dcd6;
